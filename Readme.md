@@ -1,8 +1,8 @@
 
-# Hi, I'm Vidya Sagar Mehar ! 👋
-
+# Hi, This is Ujjal moni bordoloi! 👋
 
 ### 🚀 I'm a front-end developer...
+
 
 
 
@@ -11,18 +11,17 @@
 Homepage of SAAS provider.
 
 ## Average time to complete
-#### 4 ½ Hrs
+#### 6 Hrs
 
 
-## Lessons Learned
+## Technology Used
 
 ![](https://img.shields.io/badge/CSS-FLEXBOX-red)
 
 ![](https://img.shields.io/badge/CSS-GRID-pink)
 
-## Technology Used
 
-Project mjorly built from
+Project majorly built from
 
 ![HTML](https://img.shields.io/badge/FirstTech-HTML-orange)
 
@@ -32,33 +31,27 @@ Project mjorly built from
 HTML, CSS...
 
 ## Demo | Netlify
-https://saas-provider.netlify.app/
 
 
 ## Screenshots
-![screenshot](https://user-images.githubusercontent.com/92782806/183036305-f4768a29-e2b7-40ca-9fb1-3434597648d3.png)
+![screenshot](Screenshot%202022-11-21%20at%2015.53.17.jpg)
 
 
 
 
 ## Features
 
-- Mobile view
 - Live previews
 - Fullscreen mode
-
-
-## Roadmap
-
 - Additional browser support to be added.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at vidyasagark890@gmail.com
+If you have any feedback, please reach out to me at ujjalbordoloi90@gmail.com
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.findcoder.io/u/vidyasagarmehar)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cherry_Reyans)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.findcoder.io/u/ujjalbordoloi)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjal-moni-bordoloi-9b00ab166/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
