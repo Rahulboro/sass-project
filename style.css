@@ -16,7 +16,7 @@
 /* here starts the navbar section  */
 
 .logo{
-    margin-left: 50px;
+    margin-left: 60px;
     margin-top: 10px;
     
 }
@@ -63,13 +63,102 @@ section{
 
 }
 
+.homeleft {
+    color: #fff;
+    margin-left: 0px;
+}
+.homeleft h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    line-height: 60px;
+}
+
+/* here starts the homeright section  */
+
+.homeright img {
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+ /* end of the homeright section  */
+
+ /* here starts the secpageleft  */
+
+.secondpageleft {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+ }
+
+.secpageleftimg{
+    height: 800px;
+}
+
+/* end if the secondpageleft  */
+
+/* starts if the secpageright  */
+
+.secpageright h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+.secpageright h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.secpageright span img {
+    height: 20px;
+    width: 25px;
+    margin-right: 13px;
+}
+.secpageright span p {
+    margin-left: 36px;
+}
+/* end of the secpageright section  */
+
+/* here starts the footer section  */
 
 
+.footersec {
+    display: inline;
+}
+.footertop{
+    text-align: center;
+    font-size: 20px;
+}
 
+.footerbottom{
+    display: grid;
+    margin-left: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.footerbottom span{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
 
+.footerbottom span img {
+    width: 100px;
+}
+.footerbottom span span:hover {
+    margin-left: 0px;
+    background-color: #4818a2d5;
+    color: #fff;
+    border-radius: 2em;
+}
+.one,
+.two,
+.three,
+.four{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 15px 10px grey;
 
-
-
-
-
-
+}
